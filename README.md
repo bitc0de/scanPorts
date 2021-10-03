@@ -15,6 +15,7 @@ cd scanPorts
 ![](https://i.ibb.co/vPWdLqR/imagen.png)
 
 **Ports copied to clipboard**
+
 ![](https://i.ibb.co/q7TsYkj/imagen.png)
 
 If you want you can make a pull request. The stars are appreciated :)
@@ -37,6 +38,7 @@ cd scanPorts
 ![](https://i.ibb.co/vPWdLqR/imagen.png)
 
 **Puertos copiados en el portapapeles**
+
 ![](https://i.ibb.co/q7TsYkj/imagen.png)
 
 Si quieres, puedes apoyar el repositorio haciendo un pull. Se agradecen las estrellas :)
