@@ -3,6 +3,7 @@
 Nmap based scanner that shows the open ports of a host, as well as recommends the possible enumeration methods and copies the open ports to the clipboard.
 
 ## Download and usage
+you need to have xclip installed (sudo apt install xclip)
 
 ```bash
 git clone https://github.com/bitc0de/scanPorts
@@ -26,6 +27,7 @@ If you want you can make a pull request. The stars are appreciated :)
 Escáner basado en Nmap que muestra los puertos abiertos de un host, además de recomendar los posibles métodos de enumeración y copia los puertos abiertos al portapapeles.
 
 ## Descarga y uso
+necesitas tener instalado xclip (sudo apt install xclip)
 
 ```bash
 git clone https://github.com/bitc0de/scanPorts
