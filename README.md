@@ -13,6 +13,7 @@ cd scanPorts
 ## Captures
 ![](https://i.ibb.co/dfs5Tdv/imagen.png)
 ![](https://i.ibb.co/vPWdLqR/imagen.png)
+
 **Ports copied to clipboard**
 ![](https://i.ibb.co/q7TsYkj/imagen.png)
 
@@ -34,6 +35,7 @@ cd scanPorts
 ## Capturas
 ![](https://i.ibb.co/dfs5Tdv/imagen.png)
 ![](https://i.ibb.co/vPWdLqR/imagen.png)
+
 **Puertos copiados en el portapapeles**
 ![](https://i.ibb.co/q7TsYkj/imagen.png)
 
